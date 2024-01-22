@@ -19,5 +19,5 @@ export default defineConfig({
             clientPort: 5200,
         }
     },
-    base: "/Quick_Grass/"
+    base: "/"
 });
